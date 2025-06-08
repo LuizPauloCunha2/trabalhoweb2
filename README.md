@@ -1,4 +1,4 @@
-O LPC Sports é um site fictício de notícias esportivas focado principalmente em futebol, com uma estrutura simples e intuitiva, construída para atender aos requisitos de um trabalho prático.
+O LPC Sports é um site fictício de notícias esportivas focado principalmente em futebol, com uma estrutura simples e intuitiva.
 
 Páginas e funcionalidades principais:
 
